@@ -1,5 +1,5 @@
 ---
-name: landing-page-design
+name: ui
 description: Apply the reusable UI design and component guidance documented in this skill to a requested web content or interface.
 ---
 
